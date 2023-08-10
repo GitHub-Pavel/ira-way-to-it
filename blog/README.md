@@ -1,4 +1,4 @@
 # Blog
 
-client: http://localhost:3000/
-server: http://localhost:3001/
+- client: http://localhost:3000/
+- server: http://localhost:3001/
